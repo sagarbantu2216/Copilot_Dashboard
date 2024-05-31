@@ -23,8 +23,8 @@
     },
     "updated_at": "2024-05-06T16:09:37+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-23T20:47:25+05:30",
-    "last_activity_editor": "vscode/1.88.1/copilot-chat-ide/0.14.1"
+    "last_activity_at": "2024-05-31T15:31:28+05:30",
+    "last_activity_editor": "vscode/1.88.1/copilot/1.194.0"
   },
   {
     "created_at": "2024-05-06T16:10:29+05:30",
@@ -77,8 +77,8 @@
     },
     "updated_at": "2024-05-07T15:29:53+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:12:59+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-30T10:59:04+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-13T20:40:43+05:30",
@@ -104,8 +104,8 @@
     },
     "updated_at": "2024-05-13T20:40:43+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:19:53+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-31T15:48:51+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-13T20:41:43+05:30",
@@ -131,7 +131,7 @@
     },
     "updated_at": "2024-05-13T20:41:43+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T14:52:06+05:30",
+    "last_activity_at": "2024-05-24T18:24:45+05:30",
     "last_activity_editor": "vscode/1.89.0/copilot/1.194.0"
   },
   {
@@ -185,8 +185,8 @@
     },
     "updated_at": "2024-05-13T20:45:46+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:35:00+05:30",
-    "last_activity_editor": "vscode/1.86.0/copilot/1.194.0"
+    "last_activity_at": "2024-05-31T12:49:41+05:30",
+    "last_activity_editor": "vscode/1.86.0/copilot-chat/0.12.2"
   },
   {
     "created_at": "2024-05-13T22:22:30+05:30",
@@ -239,8 +239,8 @@
     },
     "updated_at": "2024-05-13T22:43:40+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-23T15:40:49+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
+    "last_activity_at": "2024-05-31T15:23:18+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-14T13:04:44+05:30",
@@ -266,8 +266,8 @@
     },
     "updated_at": "2024-05-14T13:04:44+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:51:31+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-31T11:54:20+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
   },
   {
     "created_at": "2024-05-14T13:38:23+05:30",
@@ -293,8 +293,8 @@
     },
     "updated_at": "2024-05-14T13:38:23+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:55:10+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-27T16:36:31+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.195.0"
   },
   {
     "created_at": "2024-05-14T14:47:54+05:30",
@@ -320,7 +320,7 @@
     },
     "updated_at": "2024-05-14T14:47:54+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:40:12+05:30",
+    "last_activity_at": "2024-05-27T18:02:37+05:30",
     "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
   },
   {
@@ -347,8 +347,8 @@
     },
     "updated_at": "2024-05-14T15:01:21+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-23T16:51:32+05:30",
-    "last_activity_editor": "vscode/1.83.0/copilot-chat-ide/0.8.0"
+    "last_activity_at": "2024-05-31T11:58:50+05:30",
+    "last_activity_editor": "vscode/1.83.0/copilot-chat/0.8.0"
   },
   {
     "created_at": "2024-05-14T15:19:39+05:30",
@@ -374,8 +374,8 @@
     },
     "updated_at": "2024-05-14T15:19:39+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-23T19:02:28+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-31T14:53:39+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-14T15:20:53+05:30",
@@ -401,8 +401,8 @@
     },
     "updated_at": "2024-05-14T15:20:53+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-23T17:23:12+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
+    "last_activity_at": "2024-05-30T17:09:37+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-14T15:24:15+05:30",
@@ -428,8 +428,8 @@
     },
     "updated_at": "2024-05-14T15:24:15+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:47:23+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-31T15:33:21+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-14T15:36:40+05:30",
@@ -455,8 +455,8 @@
     },
     "updated_at": "2024-05-14T15:36:40+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:07:16+05:30",
-    "last_activity_editor": "vscode/1.86.2/copilot-chat-ide/0.12.2"
+    "last_activity_at": "2024-05-31T15:48:19+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot-chat/0.15.2"
   },
   {
     "created_at": "2024-05-14T15:38:08+05:30",
@@ -509,8 +509,8 @@
     },
     "updated_at": "2024-05-14T15:48:51+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-20T18:03:20+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
+    "last_activity_at": "2024-05-30T11:19:31+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.196.0"
   },
   {
     "created_at": "2024-05-15T11:36:51+05:30",
@@ -536,8 +536,8 @@
     },
     "updated_at": "2024-05-15T11:36:51+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:47:31+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
+    "last_activity_at": "2024-05-30T13:45:03+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-15T12:15:09+05:30",
@@ -563,8 +563,8 @@
     },
     "updated_at": "2024-05-15T12:15:09+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-23T16:41:06+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-29T12:17:29+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.196.0"
   },
   {
     "created_at": "2024-05-15T13:09:58+05:30",
@@ -590,8 +590,8 @@
     },
     "updated_at": "2024-05-15T13:09:58+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-17T10:01:19+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.1"
+    "last_activity_at": "2024-05-31T14:58:08+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.197.0"
   },
   {
     "created_at": "2024-05-15T14:17:10+05:30",
@@ -617,7 +617,7 @@
     },
     "updated_at": "2024-05-15T14:17:10+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:41:33+05:30",
+    "last_activity_at": "2024-05-31T15:15:37+05:30",
     "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
   },
   {
@@ -644,8 +644,8 @@
     },
     "updated_at": "2024-05-15T14:38:03+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T15:56:21+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.194.0"
+    "last_activity_at": "2024-05-29T17:58:30+05:30",
+    "last_activity_editor": "vscode/1.89.1/copilot/1.196.0"
   },
   {
     "created_at": "2024-05-15T16:28:12+05:30",
@@ -671,7 +671,7 @@
     },
     "updated_at": "2024-05-15T16:28:12+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-05-24T14:28:30+05:30",
+    "last_activity_at": "2024-05-31T15:41:59+05:30",
     "last_activity_editor": "vscode/1.89.1/copilot-chat-ide/0.15.2"
   }
 ]
