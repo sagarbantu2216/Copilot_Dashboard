@@ -23,7 +23,7 @@
     },
     "updated_at": "2024-05-06T16:09:37+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T20:04:39+05:30",
+    "last_activity_at": "2024-08-09T14:24:23+05:30",
     "last_activity_editor": "vscode/1.89.1/"
   },
   {
@@ -77,8 +77,8 @@
     },
     "updated_at": "2024-05-07T15:29:53+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T15:17:44+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T12:02:51+05:30",
+    "last_activity_editor": "vscode/1.92.1/copilot/1.221.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -104,8 +104,8 @@
     },
     "updated_at": "2024-05-13T20:40:43+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T17:38:17+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-08T19:09:26+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -131,35 +131,8 @@
     },
     "updated_at": "2024-05-13T20:41:43+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T20:48:01+05:30",
-    "last_activity_editor": "vscode/1.91.1/"
-  },
-  {
-    "created_at": "2024-05-13T20:20:21+05:30",
-    "assignee": {
-      "login": "Nishna45",
-      "id": 169687427,
-      "node_id": "U_kgDOCh05gw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/169687427?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/Nishna45",
-      "html_url": "https://github.com/Nishna45",
-      "followers_url": "https://api.github.com/users/Nishna45/followers",
-      "following_url": "https://api.github.com/users/Nishna45/following{/other_user}",
-      "gists_url": "https://api.github.com/users/Nishna45/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/Nishna45/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/Nishna45/subscriptions",
-      "organizations_url": "https://api.github.com/users/Nishna45/orgs",
-      "repos_url": "https://api.github.com/users/Nishna45/repos",
-      "events_url": "https://api.github.com/users/Nishna45/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/Nishna45/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "updated_at": "2024-07-09T19:25:16+05:30",
-    "pending_cancellation_date": "2024-08-06",
-    "last_activity_at": "2024-05-22T16:31:58+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.193.0"
+    "last_activity_at": "2024-08-09T14:53:01+05:30",
+    "last_activity_editor": "vscode/1.92.0/"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -185,8 +158,8 @@
     },
     "updated_at": "2024-05-13T20:45:46+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T15:05:18+05:30",
-    "last_activity_editor": "vscode/1.86.0/copilot-chat/0.12.2"
+    "last_activity_at": "2024-08-09T15:02:37+05:30",
+    "last_activity_editor": "vscode/1.86.0/copilot/1.220.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -239,8 +212,8 @@
     },
     "updated_at": "2024-05-13T22:43:40+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T11:37:00+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T01:44:30+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -266,8 +239,8 @@
     },
     "updated_at": "2024-05-14T13:04:44+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T15:13:15+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-07T00:33:26+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.220.0"
   },
   {
     "created_at": "2024-05-14T13:34:39+05:30",
@@ -293,8 +266,8 @@
     },
     "updated_at": "2024-05-14T13:38:23+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T13:22:43+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T13:48:19+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -320,8 +293,8 @@
     },
     "updated_at": "2024-05-14T14:47:54+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T13:03:44+05:30",
-    "last_activity_editor": "vscode/1.91.1/"
+    "last_activity_at": "2024-08-09T15:17:22+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.220.0"
   },
   {
     "created_at": "2024-05-14T13:34:39+05:30",
@@ -347,7 +320,7 @@
     },
     "updated_at": "2024-05-14T15:01:21+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-07-26T14:20:47+05:30",
+    "last_activity_at": "2024-08-05T17:31:47+05:30",
     "last_activity_editor": "vscode/1.83.0/copilot-chat-ide/0.8.0"
   },
   {
@@ -374,8 +347,8 @@
     },
     "updated_at": "2024-05-14T15:19:39+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T15:04:59+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T15:15:25+05:30",
+    "last_activity_editor": "vscode/1.92.0/"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -401,8 +374,8 @@
     },
     "updated_at": "2024-05-14T15:20:53+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T14:24:21+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-08T16:06:11+05:30",
+    "last_activity_editor": "vscode/1.92.0/"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -428,8 +401,8 @@
     },
     "updated_at": "2024-05-14T15:24:15+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T14:50:34+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-08T17:28:15+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -455,8 +428,8 @@
     },
     "updated_at": "2024-05-14T15:36:40+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T18:11:15+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T14:54:09+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.220.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -536,8 +509,8 @@
     },
     "updated_at": "2024-05-15T11:36:51+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T15:58:14+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-07T22:21:24+05:30",
+    "last_activity_editor": "vscode/1.92.0/"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -563,7 +536,7 @@
     },
     "updated_at": "2024-05-15T12:15:09+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T15:15:08+05:30",
+    "last_activity_at": "2024-08-09T15:04:36+05:30",
     "last_activity_editor": "vscode/1.91.1/"
   },
   {
@@ -590,8 +563,8 @@
     },
     "updated_at": "2024-05-15T13:09:58+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-07-29T17:59:44+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.214.0"
+    "last_activity_at": "2024-08-09T12:02:12+05:30",
+    "last_activity_editor": "vscode/1.91.1/copilot/1.220.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -617,8 +590,8 @@
     },
     "updated_at": "2024-05-15T14:17:10+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T15:19:05+05:30",
-    "last_activity_editor": "vscode/1.91.1/"
+    "last_activity_at": "2024-08-09T13:12:41+05:30",
+    "last_activity_editor": "vscode/1.92.0/"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -644,8 +617,8 @@
     },
     "updated_at": "2024-05-15T14:38:03+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T14:59:21+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T15:19:50+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.220.0"
   },
   {
     "created_at": "2024-05-15T16:16:00+05:30",
@@ -671,35 +644,8 @@
     },
     "updated_at": "2024-05-15T16:28:12+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T19:28:28+05:30",
-    "last_activity_editor": "vscode/1.91.1/copilot/1.213.0"
-  },
-  {
-    "created_at": "2024-06-12T15:09:34+05:30",
-    "assignee": {
-      "login": "venkateshwars",
-      "id": 36036373,
-      "node_id": "MDQ6VXNlcjM2MDM2Mzcz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/36036373?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/venkateshwars",
-      "html_url": "https://github.com/venkateshwars",
-      "followers_url": "https://api.github.com/users/venkateshwars/followers",
-      "following_url": "https://api.github.com/users/venkateshwars/following{/other_user}",
-      "gists_url": "https://api.github.com/users/venkateshwars/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/venkateshwars/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/venkateshwars/subscriptions",
-      "organizations_url": "https://api.github.com/users/venkateshwars/orgs",
-      "repos_url": "https://api.github.com/users/venkateshwars/repos",
-      "events_url": "https://api.github.com/users/venkateshwars/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/venkateshwars/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "updated_at": "2024-07-09T19:21:04+05:30",
-    "pending_cancellation_date": "2024-08-06",
-    "last_activity_at": null,
-    "last_activity_editor": null
+    "last_activity_at": "2024-08-08T21:41:59+05:30",
+    "last_activity_editor": "vscode/1.91.1/"
   },
   {
     "created_at": "2024-06-12T15:09:34+05:30",
@@ -725,7 +671,7 @@
     },
     "updated_at": "2024-06-17T14:19:20+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T17:52:08+05:30",
+    "last_activity_at": "2024-08-05T15:30:13+05:30",
     "last_activity_editor": "JetBrains-IU/222.4345.14/copilot-chat-ide/1.4.6.4092"
   },
   {
@@ -806,8 +752,8 @@
     },
     "updated_at": "2024-06-26T10:29:33+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-01T20:32:06+05:30",
-    "last_activity_editor": "vscode/1.91.1/"
+    "last_activity_at": "2024-08-09T10:31:38+05:30",
+    "last_activity_editor": "vscode/1.92.0/"
   },
   {
     "created_at": "2024-07-09T19:32:24+05:30",
@@ -833,7 +779,7 @@
     },
     "updated_at": "2024-07-11T09:57:24+05:30",
     "pending_cancellation_date": null,
-    "last_activity_at": "2024-08-02T14:54:20+05:30",
-    "last_activity_editor": "vscode/1.92.0/copilot/1.219.0"
+    "last_activity_at": "2024-08-09T13:04:28+05:30",
+    "last_activity_editor": "vscode/1.92.0/copilot/1.221.0"
   }
 ]
