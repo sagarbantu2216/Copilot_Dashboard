@@ -19,13 +19,14 @@
       "events_url": "https://api.github.com/users/swapnil-edvenswa/events{/privacy}",
       "received_events_url": "https://api.github.com/users/swapnil-edvenswa/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-06T16:09:37+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T15:25:22+05:30",
-    "last_activity_editor": "vscode/1.89.1/copilot/1.235.0"
+    "last_activity_at": "2024-10-16T16:16:42+05:30",
+    "last_activity_editor": "vscode/1.89.1/"
   },
   {
     "created_at": "2024-05-06T16:09:29+05:30",
@@ -47,6 +48,7 @@
       "events_url": "https://api.github.com/users/anil-edven/events{/privacy}",
       "received_events_url": "https://api.github.com/users/anil-edven/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T21:54:08+05:30",
@@ -75,13 +77,14 @@
       "events_url": "https://api.github.com/users/sagarbantu2216/events{/privacy}",
       "received_events_url": "https://api.github.com/users/sagarbantu2216/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-07T15:29:53+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T17:03:24+05:30",
-    "last_activity_editor": "vscode/1.94.0/copilot/1.235.0"
+    "last_activity_at": "2024-10-17T18:23:50+05:30",
+    "last_activity_editor": "vscode/1.94.2/"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -103,12 +106,13 @@
       "events_url": "https://api.github.com/users/julykrunal/events{/privacy}",
       "received_events_url": "https://api.github.com/users/julykrunal/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-13T20:40:43+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-11T15:14:58+05:30",
+    "last_activity_at": "2024-10-12T22:06:15+05:30",
     "last_activity_editor": "vscode/1.94.2/copilot/1.238.0"
   },
   {
@@ -131,13 +135,14 @@
       "events_url": "https://api.github.com/users/BhavyaAnumolu/events{/privacy}",
       "received_events_url": "https://api.github.com/users/BhavyaAnumolu/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-13T20:41:43+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T15:43:58+05:30",
-    "last_activity_editor": "vscode/1.94.1/"
+    "last_activity_at": "2024-10-18T14:05:46+05:30",
+    "last_activity_editor": "vscode/1.94.1/copilot/1.236.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -159,13 +164,14 @@
       "events_url": "https://api.github.com/users/Phalgun-Santhapuri/events{/privacy}",
       "received_events_url": "https://api.github.com/users/Phalgun-Santhapuri/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-13T20:45:46+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T16:54:13+05:30",
-    "last_activity_editor": "vscode/1.93.1/copilot/1.235.0"
+    "last_activity_at": "2024-10-17T18:46:28+05:30",
+    "last_activity_editor": "vscode/1.93.1/"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -187,6 +193,7 @@
       "events_url": "https://api.github.com/users/silpa07/events{/privacy}",
       "received_events_url": "https://api.github.com/users/silpa07/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-13T22:22:30+05:30",
@@ -215,13 +222,14 @@
       "events_url": "https://api.github.com/users/Kranthi-vadapalli/events{/privacy}",
       "received_events_url": "https://api.github.com/users/Kranthi-vadapalli/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-13T22:43:40+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T23:13:35+05:30",
-    "last_activity_editor": "vscode/1.93.1/copilot/1.237.0"
+    "last_activity_at": "2024-10-18T14:58:12+05:30",
+    "last_activity_editor": "vscode/1.94.0/copilot/1.238.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -243,13 +251,14 @@
       "events_url": "https://api.github.com/users/prasadvoleti/events{/privacy}",
       "received_events_url": "https://api.github.com/users/prasadvoleti/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T13:04:44+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T11:34:31+05:30",
-    "last_activity_editor": "vscode/1.93.0/copilot/1.234.0"
+    "last_activity_at": "2024-10-18T14:13:05+05:30",
+    "last_activity_editor": "vscode/1.93.0/copilot/1.237.0"
   },
   {
     "created_at": "2024-05-14T13:34:39+05:30",
@@ -271,13 +280,14 @@
       "events_url": "https://api.github.com/users/mounikaPallu/events{/privacy}",
       "received_events_url": "https://api.github.com/users/mounikaPallu/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T13:38:23+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T16:25:43+05:30",
-    "last_activity_editor": "vscode/1.94.0/"
+    "last_activity_at": "2024-10-18T15:19:03+05:30",
+    "last_activity_editor": "vscode/1.94.2/"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -299,13 +309,14 @@
       "events_url": "https://api.github.com/users/madhav-edvenswatech/events{/privacy}",
       "received_events_url": "https://api.github.com/users/madhav-edvenswatech/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T14:47:54+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T19:09:17+05:30",
-    "last_activity_editor": "vscode/1.94.0/copilot/1.235.0"
+    "last_activity_at": "2024-10-18T15:18:28+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.239.0"
   },
   {
     "created_at": "2024-05-14T13:34:39+05:30",
@@ -327,12 +338,13 @@
       "events_url": "https://api.github.com/users/rajarshi358/events{/privacy}",
       "received_events_url": "https://api.github.com/users/rajarshi358/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T15:01:21+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T17:54:38+05:30",
+    "last_activity_at": "2024-10-18T15:14:27+05:30",
     "last_activity_editor": "vscode/1.94.1/"
   },
   {
@@ -355,13 +367,14 @@
       "events_url": "https://api.github.com/users/tejadasika/events{/privacy}",
       "received_events_url": "https://api.github.com/users/tejadasika/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T15:19:39+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T17:14:06+05:30",
-    "last_activity_editor": "vscode/1.94.0/"
+    "last_activity_at": "2024-10-18T15:20:29+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.239.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -383,13 +396,14 @@
       "events_url": "https://api.github.com/users/NareshVarre/events{/privacy}",
       "received_events_url": "https://api.github.com/users/NareshVarre/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T15:20:53+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T15:03:56+05:30",
-    "last_activity_editor": "vscode/1.94.0/copilot/1.236.0"
+    "last_activity_at": "2024-10-18T14:53:11+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.239.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -411,13 +425,14 @@
       "events_url": "https://api.github.com/users/dharaniedvenswa/events{/privacy}",
       "received_events_url": "https://api.github.com/users/dharaniedvenswa/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T15:24:15+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-11T11:42:51+05:30",
-    "last_activity_editor": "vscode/1.94.1/copilot/1.237.0"
+    "last_activity_at": "2024-10-18T15:24:53+05:30",
+    "last_activity_editor": "vscode/1.94.2/"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -439,13 +454,14 @@
       "events_url": "https://api.github.com/users/nasim-ed24/events{/privacy}",
       "received_events_url": "https://api.github.com/users/nasim-ed24/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T15:36:40+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T17:29:16+05:30",
-    "last_activity_editor": "vscode/1.94.1/"
+    "last_activity_at": "2024-10-17T12:02:15+05:30",
+    "last_activity_editor": "vscode/1.94.1/copilot/1.238.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -467,6 +483,7 @@
       "events_url": "https://api.github.com/users/karthik-edvenswa/events{/privacy}",
       "received_events_url": "https://api.github.com/users/karthik-edvenswa/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-06-24T14:23:16+05:30",
@@ -495,6 +512,7 @@
       "events_url": "https://api.github.com/users/nagarajEerti/events{/privacy}",
       "received_events_url": "https://api.github.com/users/nagarajEerti/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-14T15:48:51+05:30",
@@ -523,13 +541,14 @@
       "events_url": "https://api.github.com/users/SachinChowdhary/events{/privacy}",
       "received_events_url": "https://api.github.com/users/SachinChowdhary/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T11:36:51+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T17:20:55+05:30",
-    "last_activity_editor": "vscode/1.94.1/copilot/1.237.0"
+    "last_activity_at": "2024-10-14T11:01:41+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.238.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -551,13 +570,14 @@
       "events_url": "https://api.github.com/users/RajasimhaGavireddy/events{/privacy}",
       "received_events_url": "https://api.github.com/users/RajasimhaGavireddy/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T12:15:09+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T10:34:55+05:30",
-    "last_activity_editor": "vscode/1.93.1/"
+    "last_activity_at": "2024-10-16T18:04:58+05:30",
+    "last_activity_editor": "vscode/1.93.1/copilot/1.236.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -579,13 +599,14 @@
       "events_url": "https://api.github.com/users/BeeraAsh/events{/privacy}",
       "received_events_url": "https://api.github.com/users/BeeraAsh/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T13:09:58+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-03T15:51:24+05:30",
-    "last_activity_editor": "vscode/1.93.1/"
+    "last_activity_at": "2024-10-14T17:32:01+05:30",
+    "last_activity_editor": "vscode/1.94.0/copilot/1.238.0"
   },
   {
     "created_at": "2024-05-13T20:20:21+05:30",
@@ -607,13 +628,14 @@
       "events_url": "https://api.github.com/users/Dheerajragi/events{/privacy}",
       "received_events_url": "https://api.github.com/users/Dheerajragi/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T14:17:10+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T18:52:30+05:30",
-    "last_activity_editor": "vscode/1.94.1/copilot/1.236.0"
+    "last_activity_at": "2024-10-18T14:10:50+05:30",
+    "last_activity_editor": "vscode/1.94.1/copilot/1.238.0"
   },
   {
     "created_at": "2024-05-14T13:34:40+05:30",
@@ -635,13 +657,14 @@
       "events_url": "https://api.github.com/users/SwethaMohana/events{/privacy}",
       "received_events_url": "https://api.github.com/users/SwethaMohana/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T14:38:03+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T18:05:27+05:30",
-    "last_activity_editor": "vscode/1.94.1/copilot/1.237.0"
+    "last_activity_at": "2024-10-18T14:33:40+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.239.0"
   },
   {
     "created_at": "2024-05-15T16:16:00+05:30",
@@ -663,12 +686,13 @@
       "events_url": "https://api.github.com/users/Edvenswa-tech/events{/privacy}",
       "received_events_url": "https://api.github.com/users/Edvenswa-tech/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-05-15T16:28:12+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-08T15:49:57+05:30",
+    "last_activity_at": "2024-10-18T11:00:56+05:30",
     "last_activity_editor": "vscode/1.93.1/copilot/1.234.0"
   },
   {
@@ -691,6 +715,7 @@
       "events_url": "https://api.github.com/users/SasikalaMalladi/events{/privacy}",
       "received_events_url": "https://api.github.com/users/SasikalaMalladi/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-06-17T14:19:20+05:30",
@@ -719,6 +744,7 @@
       "events_url": "https://api.github.com/users/SudhakarMidde2214/events{/privacy}",
       "received_events_url": "https://api.github.com/users/SudhakarMidde2214/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-06-24T15:01:57+05:30",
@@ -747,6 +773,7 @@
       "events_url": "https://api.github.com/users/kishoreedvenswa/events{/privacy}",
       "received_events_url": "https://api.github.com/users/kishoreedvenswa/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-06-25T19:23:05+05:30",
@@ -775,13 +802,14 @@
       "events_url": "https://api.github.com/users/VenkatPasu1/events{/privacy}",
       "received_events_url": "https://api.github.com/users/VenkatPasu1/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-06-26T10:29:33+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-09T19:34:06+05:30",
-    "last_activity_editor": "vscode/1.94.1/"
+    "last_activity_at": "2024-10-18T14:53:29+05:30",
+    "last_activity_editor": "vscode/1.94.2/"
   },
   {
     "created_at": "2024-07-09T19:32:24+05:30",
@@ -803,12 +831,13 @@
       "events_url": "https://api.github.com/users/prakasarao/events{/privacy}",
       "received_events_url": "https://api.github.com/users/prakasarao/received_events",
       "type": "User",
+      "user_view_type": "public",
       "site_admin": false
     },
     "updated_at": "2024-07-11T09:57:24+05:30",
     "pending_cancellation_date": null,
     "plan_type": "business",
-    "last_activity_at": "2024-10-10T12:15:14+05:30",
-    "last_activity_editor": "vscode/1.94.1/copilot/1.234.0"
+    "last_activity_at": "2024-10-18T14:54:13+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.234.0"
   }
 ]
