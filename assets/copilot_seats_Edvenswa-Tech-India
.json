@@ -25,7 +25,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-06T16:09:37+05:30",
-    "last_activity_at": "2024-12-04T15:52:08+05:30",
+    "last_activity_at": "2024-12-11T20:55:37+05:30",
     "last_activity_editor": "vscode/1.95.2/"
   },
   {
@@ -54,8 +54,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-06T16:10:29+05:30",
-    "last_activity_at": "2024-12-05T17:13:04+05:30",
-    "last_activity_editor": "vscode/1.95.2/copilot/1.246.0"
+    "last_activity_at": "2024-12-13T00:02:09+05:30",
+    "last_activity_editor": "vscode/1.95.3/copilot/1.250.0"
   },
   {
     "created_at": "2024-05-07T15:29:53+05:30",
@@ -83,8 +83,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-07T15:29:53+05:30",
-    "last_activity_at": "2024-12-06T11:57:26+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.246.0"
+    "last_activity_at": "2024-12-13T01:02:11+05:30",
+    "last_activity_editor": "vscode/1.96.0/"
   },
   {
     "created_at": "2024-05-13T20:40:43+05:30",
@@ -112,8 +112,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-13T20:40:43+05:30",
-    "last_activity_at": "2024-12-04T11:12:12+05:30",
-    "last_activity_editor": "vscode/1.95.3/"
+    "last_activity_at": "2024-12-11T17:00:29+05:30",
+    "last_activity_editor": "vscode/1.95.3/copilot-chat/0.22.4"
   },
   {
     "created_at": "2024-05-13T20:41:43+05:30",
@@ -141,8 +141,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-13T20:41:43+05:30",
-    "last_activity_at": "2024-12-06T11:58:08+05:30",
-    "last_activity_editor": "vscode/1.95.2/copilot-chat/0.22.4"
+    "last_activity_at": "2024-12-12T17:14:12+05:30",
+    "last_activity_editor": "vscode/1.95.2/"
   },
   {
     "created_at": "2024-05-13T20:45:46+05:30",
@@ -170,37 +170,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-13T20:45:46+05:30",
-    "last_activity_at": "2024-12-06T12:11:08+05:30",
-    "last_activity_editor": "vscode/1.93.1/copilot/1.246.0"
-  },
-  {
-    "created_at": "2024-05-13T22:22:30+05:30",
-    "assignee": {
-      "login": "silpa07",
-      "id": 169696127,
-      "node_id": "U_kgDOCh1bfw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/169696127?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/silpa07",
-      "html_url": "https://github.com/silpa07",
-      "followers_url": "https://api.github.com/users/silpa07/followers",
-      "following_url": "https://api.github.com/users/silpa07/following{/other_user}",
-      "gists_url": "https://api.github.com/users/silpa07/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/silpa07/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/silpa07/subscriptions",
-      "organizations_url": "https://api.github.com/users/silpa07/orgs",
-      "repos_url": "https://api.github.com/users/silpa07/repos",
-      "events_url": "https://api.github.com/users/silpa07/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/silpa07/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-05-13T22:22:30+05:30",
-    "last_activity_at": "2024-09-22T17:44:41+05:30",
-    "last_activity_editor": "vscode/1.93.0/"
+    "last_activity_at": "2024-12-12T16:21:57+05:30",
+    "last_activity_editor": "vscode/1.93.1/copilot/1.248.0"
   },
   {
     "created_at": "2024-05-13T22:43:40+05:30",
@@ -228,8 +199,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-13T22:43:40+05:30",
-    "last_activity_at": "2024-12-06T14:54:11+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.246.0"
+    "last_activity_at": "2024-12-12T15:32:29+05:30",
+    "last_activity_editor": "vscode/1.95.3/copilot/1.249.0"
   },
   {
     "created_at": "2024-05-14T13:04:44+05:30",
@@ -257,8 +228,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T13:04:44+05:30",
-    "last_activity_at": "2024-12-05T17:40:37+05:30",
-    "last_activity_editor": "vscode/1.94.2/"
+    "last_activity_at": "2024-12-12T18:52:50+05:30",
+    "last_activity_editor": "vscode/1.94.2/copilot/1.250.0"
   },
   {
     "created_at": "2024-05-14T13:38:23+05:30",
@@ -286,8 +257,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T13:38:23+05:30",
-    "last_activity_at": "2024-12-02T15:20:54+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.246.0"
+    "last_activity_at": "2024-12-13T11:34:37+05:30",
+    "last_activity_editor": "vscode/1.96.0/copilot/1.251.0"
   },
   {
     "created_at": "2024-05-14T14:47:54+05:30",
@@ -315,7 +286,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T14:47:54+05:30",
-    "last_activity_at": "2024-12-06T14:53:28+05:30",
+    "last_activity_at": "2024-12-12T18:34:47+05:30",
     "last_activity_editor": "vscode/1.95.3/"
   },
   {
@@ -373,8 +344,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T15:19:39+05:30",
-    "last_activity_at": "2024-11-28T21:44:50+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.246.0"
+    "last_activity_at": "2024-12-11T22:23:24+05:30",
+    "last_activity_editor": "vscode/1.95.3/copilot/1.248.0"
   },
   {
     "created_at": "2024-05-14T15:20:53+05:30",
@@ -402,8 +373,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T15:20:53+05:30",
-    "last_activity_at": "2024-12-06T15:12:10+05:30",
-    "last_activity_editor": "vscode/1.95.3/"
+    "last_activity_at": "2024-12-13T11:28:18+05:30",
+    "last_activity_editor": "vscode/1.96.0/copilot/1.251.0"
   },
   {
     "created_at": "2024-05-14T15:24:15+05:30",
@@ -431,8 +402,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T15:24:15+05:30",
-    "last_activity_at": "2024-12-06T15:13:04+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.246.0"
+    "last_activity_at": "2024-12-12T20:22:56+05:30",
+    "last_activity_editor": "vscode/1.95.3/"
   },
   {
     "created_at": "2024-05-14T15:36:40+05:30",
@@ -460,66 +431,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-14T15:36:40+05:30",
-    "last_activity_at": "2024-12-06T15:14:04+05:30",
-    "last_activity_editor": "vscode/1.95.1/"
-  },
-  {
-    "created_at": "2024-05-14T15:38:08+05:30",
-    "assignee": {
-      "login": "karthik-edvenswa",
-      "id": 169784987,
-      "node_id": "U_kgDOCh62mw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/169784987?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/karthik-edvenswa",
-      "html_url": "https://github.com/karthik-edvenswa",
-      "followers_url": "https://api.github.com/users/karthik-edvenswa/followers",
-      "following_url": "https://api.github.com/users/karthik-edvenswa/following{/other_user}",
-      "gists_url": "https://api.github.com/users/karthik-edvenswa/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/karthik-edvenswa/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/karthik-edvenswa/subscriptions",
-      "organizations_url": "https://api.github.com/users/karthik-edvenswa/orgs",
-      "repos_url": "https://api.github.com/users/karthik-edvenswa/repos",
-      "events_url": "https://api.github.com/users/karthik-edvenswa/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/karthik-edvenswa/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-05-14T15:38:08+05:30",
-    "last_activity_at": null,
-    "last_activity_editor": null
-  },
-  {
-    "created_at": "2024-05-14T15:48:51+05:30",
-    "assignee": {
-      "login": "nagarajEerti",
-      "id": 92858642,
-      "node_id": "U_kgDOBYjpEg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/92858642?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/nagarajEerti",
-      "html_url": "https://github.com/nagarajEerti",
-      "followers_url": "https://api.github.com/users/nagarajEerti/followers",
-      "following_url": "https://api.github.com/users/nagarajEerti/following{/other_user}",
-      "gists_url": "https://api.github.com/users/nagarajEerti/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/nagarajEerti/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/nagarajEerti/subscriptions",
-      "organizations_url": "https://api.github.com/users/nagarajEerti/orgs",
-      "repos_url": "https://api.github.com/users/nagarajEerti/repos",
-      "events_url": "https://api.github.com/users/nagarajEerti/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/nagarajEerti/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-05-14T15:48:51+05:30",
-    "last_activity_at": "2024-06-27T14:40:52+05:30",
-    "last_activity_editor": "vscode/1.90.2/copilot/1.207.0"
+    "last_activity_at": "2024-12-12T19:50:38+05:30",
+    "last_activity_editor": "vscode/1.95.3/copilot/1.248.0"
   },
   {
     "created_at": "2024-05-15T11:36:51+05:30",
@@ -576,37 +489,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-15T12:15:09+05:30",
-    "last_activity_at": "2024-12-06T14:04:47+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.246.0"
-  },
-  {
-    "created_at": "2024-05-15T13:09:58+05:30",
-    "assignee": {
-      "login": "BeeraAsh",
-      "id": 169880830,
-      "node_id": "U_kgDOCiAs_g",
-      "avatar_url": "https://avatars.githubusercontent.com/u/169880830?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/BeeraAsh",
-      "html_url": "https://github.com/BeeraAsh",
-      "followers_url": "https://api.github.com/users/BeeraAsh/followers",
-      "following_url": "https://api.github.com/users/BeeraAsh/following{/other_user}",
-      "gists_url": "https://api.github.com/users/BeeraAsh/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/BeeraAsh/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/BeeraAsh/subscriptions",
-      "organizations_url": "https://api.github.com/users/BeeraAsh/orgs",
-      "repos_url": "https://api.github.com/users/BeeraAsh/repos",
-      "events_url": "https://api.github.com/users/BeeraAsh/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/BeeraAsh/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-05-15T13:09:58+05:30",
-    "last_activity_at": "2024-10-14T17:32:01+05:30",
-    "last_activity_editor": "vscode/1.94.0/copilot/1.238.0"
+    "last_activity_at": "2024-12-12T23:44:53+05:30",
+    "last_activity_editor": "vscode/1.95.3/copilot/1.250.0"
   },
   {
     "created_at": "2024-05-15T14:17:10+05:30",
@@ -634,8 +518,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-15T14:17:10+05:30",
-    "last_activity_at": "2024-12-06T12:34:47+05:30",
-    "last_activity_editor": "vscode/1.95.3/copilot/1.248.0"
+    "last_activity_at": "2024-12-12T15:42:30+05:30",
+    "last_activity_editor": "vscode/1.95.3/"
   },
   {
     "created_at": "2024-05-15T14:38:03+05:30",
@@ -663,8 +547,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-15T14:38:03+05:30",
-    "last_activity_at": "2024-12-06T15:00:28+05:30",
-    "last_activity_editor": "vscode/1.95.3/"
+    "last_activity_at": "2024-12-12T21:20:07+05:30",
+    "last_activity_editor": "vscode/1.96.0/"
   },
   {
     "created_at": "2024-05-15T16:28:12+05:30",
@@ -692,95 +576,8 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-05-15T16:28:12+05:30",
-    "last_activity_at": "2024-12-06T15:12:24+05:30",
-    "last_activity_editor": "vscode/1.95.0/copilot/1.245.0"
-  },
-  {
-    "created_at": "2024-06-17T14:19:20+05:30",
-    "assignee": {
-      "login": "SasikalaMalladi",
-      "id": 35948062,
-      "node_id": "MDQ6VXNlcjM1OTQ4MDYy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/35948062?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SasikalaMalladi",
-      "html_url": "https://github.com/SasikalaMalladi",
-      "followers_url": "https://api.github.com/users/SasikalaMalladi/followers",
-      "following_url": "https://api.github.com/users/SasikalaMalladi/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SasikalaMalladi/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SasikalaMalladi/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SasikalaMalladi/subscriptions",
-      "organizations_url": "https://api.github.com/users/SasikalaMalladi/orgs",
-      "repos_url": "https://api.github.com/users/SasikalaMalladi/repos",
-      "events_url": "https://api.github.com/users/SasikalaMalladi/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SasikalaMalladi/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-06-17T14:19:20+05:30",
-    "last_activity_at": "2024-08-05T15:30:13+05:30",
-    "last_activity_editor": "JetBrains-IU/222.4345.14/copilot-chat-ide/1.4.6.4092"
-  },
-  {
-    "created_at": "2024-06-24T15:01:57+05:30",
-    "assignee": {
-      "login": "SudhakarMidde2214",
-      "id": 147825532,
-      "node_id": "U_kgDOCM-jfA",
-      "avatar_url": "https://avatars.githubusercontent.com/u/147825532?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SudhakarMidde2214",
-      "html_url": "https://github.com/SudhakarMidde2214",
-      "followers_url": "https://api.github.com/users/SudhakarMidde2214/followers",
-      "following_url": "https://api.github.com/users/SudhakarMidde2214/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SudhakarMidde2214/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SudhakarMidde2214/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SudhakarMidde2214/subscriptions",
-      "organizations_url": "https://api.github.com/users/SudhakarMidde2214/orgs",
-      "repos_url": "https://api.github.com/users/SudhakarMidde2214/repos",
-      "events_url": "https://api.github.com/users/SudhakarMidde2214/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SudhakarMidde2214/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-06-24T15:01:57+05:30",
-    "last_activity_at": null,
-    "last_activity_editor": null
-  },
-  {
-    "created_at": "2024-06-25T19:23:05+05:30",
-    "assignee": {
-      "login": "kishoreedvenswa",
-      "id": 173809707,
-      "node_id": "U_kgDOClwgKw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/173809707?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/kishoreedvenswa",
-      "html_url": "https://github.com/kishoreedvenswa",
-      "followers_url": "https://api.github.com/users/kishoreedvenswa/followers",
-      "following_url": "https://api.github.com/users/kishoreedvenswa/following{/other_user}",
-      "gists_url": "https://api.github.com/users/kishoreedvenswa/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/kishoreedvenswa/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/kishoreedvenswa/subscriptions",
-      "organizations_url": "https://api.github.com/users/kishoreedvenswa/orgs",
-      "repos_url": "https://api.github.com/users/kishoreedvenswa/repos",
-      "events_url": "https://api.github.com/users/kishoreedvenswa/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/kishoreedvenswa/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "pending_cancellation_date": "2024-12-06",
-    "plan_type": "business",
-    "updated_at": "2024-06-25T19:23:05+05:30",
-    "last_activity_at": "2024-09-19T19:17:28+05:30",
-    "last_activity_editor": "vscode/1.93.1/copilot/1.231.0"
+    "last_activity_at": "2024-12-12T19:03:45+05:30",
+    "last_activity_editor": "vscode/1.95.0/copilot/1.249.0"
   },
   {
     "created_at": "2024-06-26T10:29:33+05:30",
@@ -808,7 +605,7 @@
     "pending_cancellation_date": null,
     "plan_type": "business",
     "updated_at": "2024-06-26T10:29:33+05:30",
-    "last_activity_at": "2024-12-05T14:04:39+05:30",
+    "last_activity_at": "2024-12-11T00:53:15+05:30",
     "last_activity_editor": "vscode/1.95.3/"
   },
   {
